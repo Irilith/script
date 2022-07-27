@@ -1,3 +1,3 @@
-getgenv().userkey = "Rosa"
-getgenv().keykey = "rozaliya_0985"
+getgenv().userkey = ""
+getgenv().keykey = ""
 loadstring(game:HttpGet("https://irilith.github.io/script/main.lua",true))()
