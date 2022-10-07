@@ -7,7 +7,7 @@
 
 Witch’s Lounge cấp cho bạn giấy phép có thể thu hồi, không độc quyền, không thể chuyển nhượng, có giới hạn để tải xuống, cài đặt và sử dụng dịch vụ của chúng tôi theo đúng các Điều khoản Dịch vụ này.
 
-Các Điều khoản Dịch vụ này là hợp đồng giữa bạn và Witch's Lounge (trong Điều khoản Dịch vụ này được gọi là "Witch's Lounge", "Admin"), nhà cung cấp trang web Witch's Lounge và các dịch vụ có thể truy cập từ trang web "Witch's Lounge (được gọi chung trong Điều khoản Dịch vụ này là Witch's Lounge Service").
+Các Điều khoản Dịch vụ này là hợp đồng giữa bạn và Witch's Lounge (trong Điều khoản Dịch vụ này được gọi là "Witch's Lounge", "Admin", "Chúng tôi"), nhà cung cấp trang web Witch's Lounge và các dịch vụ có thể truy cập từ trang web "Witch's Lounge" (được gọi chung trong Điều khoản Dịch vụ này là Witch's Lounge Service").
 
 Bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này. Nếu bạn không đồng ý với các Điều khoản Dịch vụ này, vui lòng không sử dụng Dịch vụ. Trong các Điều khoản dịch vụ này, "bạn" đề cập đến cả bạn với tư cách cá nhân và pháp nhân mà bạn đại diện. Nếu bạn vi phạm bất kỳ Điều khoản dịch vụ nào trong số này, chúng tôi có quyền hủy tài khoản của bạn hoặc chặn quyền truy cập vào tài khoản của bạn mà không cần thông báo.
 
